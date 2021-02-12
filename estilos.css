@@ -1,0 +1,14 @@
+table {
+  border: 3px solid black;
+  text-align: center;
+  border-collapse: collapse;
+  border: 1;
+}
+thead {
+  background-color: black;
+  color: white;
+  font-size: 30px;
+}
+tbody {
+  background-color: lightcyan;
+}
